@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "🌖 ptone",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,39 +16,39 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "pt1.one",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "STIX Two Text",
+        body: "STIX Two Text",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#E9DBBF",//background
+          lightgray: "#E6E6E6",//searchbox, border
+          gray: "#b8b8b8",//metadata
+          darkgray: "#8E3528",//body text
+          dark: "#5A1E1E",//heading title
+          secondary: "#822124",//links, folder nav, page home a
+          tertiary: "#423E64",// link hover
+          highlight: "#F4DFC9",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#181512",
+          lightgray: "#2A2623",
+          gray: "#908A84",
+          darkgray: "#F2D6CB",
+          dark: "#ff8a65",
+          secondary: "#ffab91",
+          tertiary: "#B8A1E1",
+          highlight: "#3D2F24",
+          textHighlight: "#fff23688",
         },
       },
     },
