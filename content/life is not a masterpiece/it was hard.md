@@ -1,0 +1,1 @@
+Think about the first time you tried something that was difficult. Its probably not that hard now. This will apply to most things you do
