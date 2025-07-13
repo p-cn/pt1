@@ -1,0 +1,163 @@
+body, p {
+  font-weight: 400 !important;
+}
+
+.HyperMD-header, .inline-title, h1, h2, h3, h4, h5, h6 {
+ font-family: 'STIX Two Text' !important;
+
+}
+
+.inline-title {
+  font-size: 2em !important;
+  font-weight:500 !important;
+}
+
+.cm-header-1, h1, .markdown-rendered h1 {
+  font-size: 2em !important;
+  letter-spacing: -0.5px !important;
+  font-weight: 500 !important;
+
+}
+
+.cm-header-2, h2, .markdown-rendered h2 {
+  font-size: 1.75em !important;
+  letter-spacing: -0.5px !important;
+  font-weight: 500 !important;
+
+}
+
+.cm-header-3, h3, .markdown-rendered h3 {
+  font-size: 1.5em !important;
+  letter-spacing: -0.5px !important;
+  font-weight: 500 !important;
+}
+
+.cm-header-4, h4, .markdown-rendered h4 {
+  font-size: 1.25em !important;
+  letter-spacing: -0.5px !important;
+  font-weight: 500 !important;
+}
+
+.cm-header-5, h5, .markdown-rendered h5 {
+  font-size: 1.1em !important;
+  letter-spacing: -0.5px !important;
+  font-weight: 500 !important;
+}
+
+.cm-header-6, h6, .markdown-rendered h6 {
+  font-size: 1em !important;
+  letter-spacing: -0.5px !important;
+  font-weight: 500 !important;
+}
+
+.wide {
+  --file-line-width: 100%;
+}
+
+.cm-strong {
+  font-weight: 500;
+}
+
+.markdown-source-view.mod-cm6 .task-list-item-checkbox {
+    margin-right: 8px;
+    top: 0.1em;
+}
+
+
+.markdown-source-view.mod-cm6 .internal-embed > img, .markdown-preview-view .internal-embed > img {
+  border:5px solid #efefef;
+  margin: 0.25rem 0.25rem 0.25rem 0.25rem;
+}
+
+
+/*-----------------------------------------------*/
+/* theme patches */
+/* Anupuccin dark style fix .nav-file-title, .nav-folder-title {color: white;} */
+
+
+/* color themes for headers*/
+
+/* cool dark */
+/*
+.cm-header-1, h1 {  color: #A3B18A !important;}
+.cm-header-2, h2 {  color: #6AA08E !important;}
+.cm-header-3, h3 {  color: #26B0BA !important;}
+.cm-header-4, h4 {  color: #4D88D1 !important;}
+.cm-header-5, h5 {  color: #6878DE !important;}
+.cm-header-6, h6 {  color: #7D77CF !important;}
+
+
+/* cool light */
+
+/*
+.cm-header-1, h1 {  color: #A3B18A !important;}
+.cm-header-2, h2 {  color: #5E9281 !important;}
+.cm-header-3, h3 {  color: #197278 !important;}
+.cm-header-4, h4 {  color: #2B62A7 !important;}
+.cm-header-5, h5 {  color: #3D52D5 !important;}
+.cm-header-6, h6 {  color: #423BA8 !important;}
+*/
+
+/* warm dark */
+/*
+.cm-header-1, h1 {  color: #FFD8BE !important;}
+.cm-header-2, h2 {  color: #F4D06F !important;}
+.cm-header-3, h3 {  color: #E58E76 !important;}
+.cm-header-4, h4 {  color: #E07A5F !important;}
+.cm-header-5, h5 {  color: #F3807C !important;}
+.cm-header-6, h6 {  color: #FF495C !important;}
+*/
+
+/* warm light */
+/*
+.cm-header-1, h1 {  color: #E12909 !important;}
+.cm-header-2, h2 {  color: #E4AC11 !important;}
+.cm-header-3, h3 {  color: #E7754B !important;}
+.cm-header-4, h4 {  color: #EFBC2E !important;}
+.cm-header-5, h5 {  color: #DD4343 !important;}
+.cm-header-6, h6 {  color: #FF1F35 !important;}
+*/
+
+/* bright pastel */
+
+/*
+.cm-header-1, h1 {  color: #627AEE !important;}
+.cm-header-2, h2 {  color: #DEBD86 !important;}
+.cm-header-3, h3 {  color: #8ECBB5 !important;}
+.cm-header-4, h4 {  color: #AE87D8 !important;}
+.cm-header-5, h5 {  color: #E87A7A !important;}
+.cm-header-6, h6 {  color: #7EB9D4 !important;}
+*/
+
+
+/* low contrast brown */
+
+/*
+.cm-header-1, h1 {  color: #ddb892 !important;}
+.cm-header-2, h2 {  color: #c49a62 !important;}
+.cm-header-3, h3 {  color: #b08968 !important;}
+.cm-header-4, h4 {  color: #9c6644 !important;}
+.cm-header-5, h5 {  color: #7f5539 !important;}
+.cm-header-6, h6 {  color: #472d30 !important;}
+*/
+
+
+/* clay */
+/
+.cm-header-1, h1 {  color: #ddb892 !important;}
+.cm-header-2, h2 {  color: #c49a62 !important;}
+.cm-header-3, h3 {  color: #9A8C98 !important;}
+.cm-header-4, h4 {  color: #726D81 !important;}
+.cm-header-5, h5 {  color: #4A4E69 !important;}
+.cm-header-6, h6 {  color: #22223B !important;}
+*/
+
+/* slate */
+/*
+.cm-header-1, h1 {  color: #9A9AB2 !important;}
+.cm-header-2, h2 {  color: #7A7A9B !important;}
+.cm-header-3, h3 {  color: #5A5A83 !important;}
+.cm-header-4, h4 {  color: #444464 !important;}
+.cm-header-5, h5 {  color: #33334D !important;}
+.cm-header-6, h6 {  color: #22223B !important;}
+*/

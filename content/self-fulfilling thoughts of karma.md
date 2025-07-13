@@ -1,6 +1,6 @@
 ---
 title: self-fulfilling thoughts of karma
-draft: true
+draft: false
 date: 2024-10-20
 tags:
 ---
