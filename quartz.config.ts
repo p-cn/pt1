@@ -29,7 +29,7 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#E9DBBF",//background
+          light: "#FFF7F1",//background
           lightgray: "#E6E6E6",//searchbox, border
           gray: "#b8b8b8",//metadata
           darkgray: "#8E3528",//body text
