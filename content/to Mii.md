@@ -1,3 +1,0 @@
-"Mii, i couldn't see you for one last time and it's been killing me ever since. Today I have passed the second exam and been thinking about our promise to go seeing the Lasmas' turtle. I am too much of a coward to face him alone. I don't know how to explain if he asked me of your whereabouts. 
-
-They said you became part of the wind and the flowers in Northern valley.  It's summer now and they say flowers over there blooming the most radiant of all time. 

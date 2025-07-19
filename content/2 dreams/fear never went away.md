@@ -29,5 +29,5 @@ The mind is now fully awake with emotion. Reality does horrify.
 
 “One day, all of this will end. But I cannot wait until then.”
 
-As if the world is crumbling apart because it is still consiously alive.
+As if the world is crumbling apart again.
 
