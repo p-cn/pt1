@@ -1,0 +1,56 @@
+/*
+ * ========================================================
+ * PREVIEW MODE
+ * ========================================================
+ */
+
+/* Center tables on the page */
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Color odd and even rows */
+.markdown-preview-view th {
+      background-color: var(--background-secondary-alt);
+}
+.markdown-preview-view tr:nth-child(odd) {
+      background-color: var(--background-primary);
+        text-align: center;
+}
+.markdown-preview-view tr:nth-child(even) {
+      background-color: var(--background-secondary);
+        text-align: center;
+}
+
+/*
+ * ========================================================
+ * LIVE PREVIEW MODE
+ * ========================================================
+ */
+
+/* Center tables on the page */
+.markdown-rendered table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Color odd and even rows */
+.markdown-rendered th {
+      background-color: var(--background-secondary-alt);
+}
+.markdown-rendered tr:nth-child(odd) {
+      background-color: var(--background-primary);
+}
+.markdown-rendered tr:nth-child(even) {
+      background-color: var(--background-secondary);}
+      
+/* Decimal list */  
+.dataview.list-view-ul {
+  list-style-type: decimal !important;
+}
+
+
+.dataview.table-view-table th, .dataview.table-view-table td {
+  text-align: center !important;
+}

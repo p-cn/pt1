@@ -1,0 +1,155 @@
+/* === Font Class Mapping with Font Names === */
+.CNN-Sans-Display-W04 body,
+.CNN-Sans-Display-W04 .markdown-preview-view,
+.CNN-Sans-Display-W04 .markdown-source-view,
+.CNN-Sans-Display-W04 .cm-scroller {
+  font-family: "CNN Sans Display W04" !important;
+}
+
+.Delivery-Viet body,
+.Delivery-Viet .markdown-preview-view,
+.Delivery-Viet .markdown-source-view,
+.Delivery-Viet .cm-scroller {
+  font-family: "Delivery Viet" !important;
+}
+
+.League-Spartan body,
+.League-Spartan .markdown-preview-view,
+.League-Spartan .markdown-source-view,
+.League-Spartan .cm-scroller {
+  font-family: "League Spartan" !important;
+}
+
+.National-Park body,
+.National-Park .markdown-preview-view,
+.National-Park .markdown-source-view,
+.National-Park .cm-scroller {
+  font-family: "National Park" !important;
+}
+
+.Onest body,
+.Onest .markdown-preview-view,
+.Onest .markdown-source-view,
+.Onest .cm-scroller {
+  font-family: "Onest" !important;
+}
+
+.Readex-Pro body,
+.Readex-Pro .markdown-preview-view,
+.Readex-Pro .markdown-source-view,
+.Readex-Pro .cm-scroller {
+  font-family: "Readex Pro" !important;
+}
+
+.SF-Compact-Display body,
+.SF-Compact-Display .markdown-preview-view,
+.SF-Compact-Display .markdown-source-view,
+.SF-Compact-Display .cm-scroller {
+  font-family: "SF Compact Display" !important;
+}
+
+.SF-Compact-Rounded body,
+.SF-Compact-Rounded .markdown-preview-view,
+.SF-Compact-Rounded .markdown-source-view,
+.SF-Compact-Rounded .cm-scroller {
+  font-family: "SF Compact Rounded" !important;
+}
+
+.SF-Compact-Text body,
+.SF-Compact-Text .markdown-preview-view,
+.SF-Compact-Text .markdown-source-view,
+.SF-Compact-Text .cm-scroller {
+  font-family: "SF Compact Text" !important;
+}
+
+.SF-Pro-Display body,
+.SF-Pro-Display .markdown-preview-view,
+.SF-Pro-Display .markdown-source-view,
+.SF-Pro-Display .cm-scroller {
+  font-family: "SF Pro Display" !important;
+}
+
+.SF-Pro-Rounded body,
+.SF-Pro-Rounded .markdown-preview-view,
+.SF-Pro-Rounded .markdown-source-view,
+.SF-Pro-Rounded .cm-scroller {
+  font-family: "SF Pro Rounded" !important;
+}
+
+.SF-Pro-Text body,
+.SF-Pro-Text .markdown-preview-view,
+.SF-Pro-Text .markdown-source-view,
+.SF-Pro-Text .cm-scroller {
+  font-family: "SF Pro Text" !important;
+}
+
+.STix-Two-Text body,
+.STix-Two-Text .markdown-preview-view,
+.STix-Two-Text .markdown-source-view,
+.STix-Two-Text .cm-scroller {
+  font-family: "STix Two text" !important;
+}
+
+.Selane-Text-ST-Regular body,
+.Selane-Text-ST-Regular .markdown-preview-view,
+.Selane-Text-ST-Regular .markdown-source-view,
+.Selane-Text-ST-Regular .cm-scroller {
+  font-family: "Selane Text ST Regular" !important;
+}
+
+.Uber-Move-Text body,
+.Uber-Move-Text .markdown-preview-view,
+.Uber-Move-Text .markdown-source-view,
+.Uber-Move-Text .cm-scroller {
+  font-family: "Uber Move Text" !important;
+}
+
+.Wix-Madefor-Display body,
+.Wix-Madefor-Display .markdown-preview-view,
+.Wix-Madefor-Display .markdown-source-view,
+.Wix-Madefor-Display .cm-scroller {
+  font-family: "Wix madefor Display" !important;
+}
+
+.Wix-Madefor-Text body,
+.Wix-Madefor-Text .markdown-preview-view,
+.Wix-Madefor-Text .markdown-source-view,
+.Wix-Madefor-Text .cm-scroller {
+  font-family: "Wix madefor Text" !important;
+}
+
+.r0c0i-Linotte body,
+.r0c0i-Linotte .markdown-preview-view,
+.r0c0i-Linotte .markdown-source-view,
+.r0c0i-Linotte .cm-scroller {
+  font-family: "r0c0i Linotte" !important;
+}
+
+/* @settings
+name: Font Selector
+id: font-selector
+settings:
+  - type: class-select
+    title: Body Font
+    description: Choose your font
+    default: Onest
+    options:
+      - CNN-Sans-Display-W04
+      - Delivery-Viet
+      - League-Spartan
+      - National-Park
+      - Onest
+      - Readex-Pro
+      - SF-Compact-Display
+      - SF-Compact-Rounded
+      - SF-Compact-Text
+      - SF-Pro-Display
+      - SF-Pro-Rounded
+      - SF-Pro-Text
+      - STix-Two-Text
+      - Selane-Text-ST-Regular
+      - Uber-Move-Text
+      - Wix-Madefor-Display
+      - Wix-Madefor-Text
+      - r0c0i-Linotte
+*/

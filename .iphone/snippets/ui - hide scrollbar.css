@@ -1,0 +1,25 @@
+::-webkit-scrollbar {
+    visibility: hidden;
+    width: 25px !important;
+}
+
+::-webkit-scrollbar:hover {
+visibility: initial;
+}
+
+::-webkit-scrollbar-thumb {
+    visibility: hidden;
+    background-color: var(--interactive-accent) !important;
+    border-left: 18px solid transparent;
+    border-radius: 0px !important;
+
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+    visibility: initial;
+    background-color: var(--interactive-accent) !important;
+    border-left: 18px solid transparent;
+    border-radius: 0px !important;
+
+}

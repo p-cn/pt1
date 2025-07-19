@@ -1,0 +1,15 @@
+{
+  "myInterval": 3,
+  "myRetryCount": 30,
+  "scrollHeightData": {
+    "homepage.md": {
+      "height": 217.86436781609194,
+      "lastAccessed": 1752884558538
+    }
+  },
+  "listenEvent": "mouseover",
+  "pageSize": 10,
+  "enableAutoCleanup": false,
+  "cleanupDays": 30,
+  "dataManagementSettingsOpen": false
+}

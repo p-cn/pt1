@@ -1,0 +1,5 @@
+{
+  "format": "YYYY.MM.DD",
+  "folder": "content/scribbles",
+  "template": "templates/default note"
+}

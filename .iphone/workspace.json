@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "298bce23c13e4eb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6c87a88d306653",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24dfc87d569f621d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "homepage"
+            }
+          },
+          {
+            "id": "fb05fd2254fa0dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/verse/if afterworld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "if afterworld"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d89ff519723e45fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c786303bd4bcf48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5f8615f61b0e32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74b76cc8bb91c477",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "specifically",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "835913e6ea39ff02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e95fb0ad3195ea2a",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306
+  },
+  "right": {
+    "id": "1be10c2618427067",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ee39bb23ced4fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4b00624fbf215b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from homepage"
+            }
+          },
+          {
+            "id": "a1875fa793d2998c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e4e7343ecd346e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of homepage"
+            }
+          },
+          {
+            "id": "53133960904d4cb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": true,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "templates:Insert template": true,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "cmdr:File Explorer++: Toggle all hide filters": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "alias-management:ListAliasesView": false,
+      "alias-management:DuplicateAliasesView": false,
+      "iconic:Open rulebook": false,
+      "homepage:Open homepage": false,
+      "file-cleaner-redux:Clean files": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "24dfc87d569f621d",
+  "lastOpenFiles": [
+    "content/to Mii.md",
+    "content/bitter betrayal.md",
+    "content/Untitled.md",
+    "content/bitter betral.md",
+    "content/verse/if afterworld.md",
+    "homepage.md",
+    "content/verse/dust and the universe.md",
+    "content/1 life is not a masterpiece/starting is always difficult.md",
+    "content/2 dreams/fear never went away.md",
+    "content/the puzzle called me.md",
+    "content/verse/millions shades of blue.md",
+    "content/verse/your undone.md",
+    "content/verse/words for the dead.md",
+    "content/verse/untitled 3.md",
+    "content/verse/tragic passing.md",
+    "content/verse/the future that left.md",
+    "content/verse/the city is dead.md",
+    "content/verse/soldier me.md",
+    "content/verse/second.md",
+    "content/verse/remember you.md",
+    "content/verse/patterned dreams.md",
+    "content/verse/pathway.md",
+    "content/verse/old house.md",
+    "content/verse/odd expectation.md",
+    "content/verse/might have been.md",
+    "content/verse/locked in comfort.md",
+    "public/index-og-image.webp",
+    "public/4-hobbies/end-of-my-wp-days-og-image.webp",
+    "public/1-life-is-not-a-masterpiece/starting-is-always-difficult-og-image.webp",
+    "public/index.html",
+    "public/postscript.js",
+    "public/prescript.js",
+    "public/index.css",
+    "public/1-life-is-not-a-masterpiece/failure-to-detach-from-past-life-og-image.webp",
+    "public/404.html",
+    "public/favicon.ico",
+    "public/writing-prompts-og-image.webp",
+    "public/4-hobbies/end-of-my-wp-days.html",
+    "public/4-hobbies/index.html",
+    "public/4-hobbies",
+    "public/3-irrational-theories/index.html",
+    "public/3-irrational-theories/self-fulfilling-thoughts-of-karma-og-image.webp",
+    "public/2-dreams/different-sides-now-og-image.webp",
+    "public/1-life-is-not-a-masterpiece/every-encounter-a-lesson-og-image.webp",
+    "public/hobbies/end-of-my-wp-days-og-image.webp",
+    "public/dreams/different-sides-now-og-image.webp",
+    "Untitled.canvas",
+    "Untitled 6.canvas",
+    "Untitled 1.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas"
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "off",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": false,
+  "showMarkdownTabIcons": true,
+  "showMenuActions": true,
+  "showQuickSwitcherIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "rgb",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "folder"
+  },
+  "appIcons": {},
+  "tabIcons": {
+    "file-explorer": {
+      "icon": "lucide-list-tree"
+    },
+    "tlfItemView": {
+      "icon": "lucide-info"
+    }
+  },
+  "fileIcons": {
+    "00 inbox": {
+      "color": "#dbb424",
+      "unsynced": [
+        "e536662a65563996",
+        "icloud/aricen",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ],
+      "icon": "lucide-inbox"
+    },
+    "00 inbox/FIRE": {
+      "icon": "lucide-flame",
+      "unsynced": [
+        "c4a93bda3158bcf3",
+        "edd09f4d7e42e7fc",
+        "icloud/aricen",
+        "f7f6fe638e737014",
+        "e536662a65563996",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "01 projects/2. work": {
+      "icon": "lucide-star",
+      "color": "yellow",
+      "unsynced": [
+        "edd09f4d7e42e7fc",
+        "icloud/aricen",
+        "f7f6fe638e737014",
+        "e536662a65563996",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "01 projects/clippings": {
+      "icon": "lucide-clipboard-copy",
+      "unsynced": [
+        "c4a93bda3158bcf3",
+        "edd09f4d7e42e7fc",
+        "icloud/aricen",
+        "f7f6fe638e737014",
+        "e536662a65563996",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ],
+      "color": "purple"
+    },
+    "01 projects/food diary": {
+      "icon": "lucide-wheat",
+      "unsynced": [
+        "e536662a65563996",
+        "icloud/aricen",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "02 areas/health & wellness/exercises": {
+      "icon": "lucide-biceps-flexed",
+      "unsynced": [
+        "e536662a65563996",
+        "icloud/aricen",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "03 resources/attachments": {
+      "icon": "lucide-paperclip",
+      "unsynced": [
+        "e536662a65563996",
+        "icloud/aricen",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "03 resources/baby xu xi": {
+      "icon": "lucide-cannabis",
+      "unsynced": [
+        "f7f6fe638e737014",
+        "e536662a65563996",
+        "icloud/aricen",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "03 resources/health": {
+      "icon": "lucide-heart",
+      "unsynced": [
+        "e536662a65563996",
+        "icloud/aricen",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "03 resources/succulent": {
+      "icon": "lucide-tree-deciduous",
+      "unsynced": [
+        "f7f6fe638e737014",
+        "e536662a65563996",
+        "icloud/aricen",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "03 resources/templates": {
+      "icon": "lucide-layout-template",
+      "unsynced": [
+        "e536662a65563996",
+        "icloud/aricen",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "personal/gallery": {
+      "icon": "lucide-file-image",
+      "unsynced": [
+        "c4a93bda3158bcf3",
+        "edd09f4d7e42e7fc",
+        "icloud/aricen",
+        "f7f6fe638e737014",
+        "e536662a65563996",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "personal/health": {
+      "icon": "lucide-heart-pulse",
+      "unsynced": [
+        "c4a93bda3158bcf3",
+        "edd09f4d7e42e7fc",
+        "icloud/aricen",
+        "f7f6fe638e737014",
+        "e536662a65563996",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "personal/relief": {
+      "icon": "lucide-pencil-ruler",
+      "unsynced": [
+        "c4a93bda3158bcf3",
+        "edd09f4d7e42e7fc",
+        "icloud/aricen",
+        "f7f6fe638e737014",
+        "e536662a65563996",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    },
+    "work": {
+      "icon": "lucide-star",
+      "color": "yellow",
+      "unsynced": [
+        "c4a93bda3158bcf3",
+        "edd09f4d7e42e7fc",
+        "icloud/aricen",
+        "f7f6fe638e737014",
+        "e536662a65563996",
+        "9d216dffac303694",
+        "6fbaaa8ad7c06ce5"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {
+    "daily-notes:Open today's daily note": {
+      "icon": "lucide-calendar-days"
+    },
+    "file-cleaner-redux:Clean files": {
+      "icon": "lucide-file-x"
+    },
+    "obsidian-read-it-later:ReadItLater: Create from clipboard": {
+      "icon": "lucide-clipboard-copy",
+      "color": "orange"
+    },
+    "obsidian-task-progress-bar:Open Task Genius view": {
+      "icon": "lucide-chart-bar-stacked"
+    }
+  },
+  "fileRules": [
+    {
+      "id": "5UVI5",
+      "name": "root",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "root"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-folder-root"
+    },
+    {
+      "id": "xPWQ3",
+      "name": "md",
+      "match": "all",
+      "enabled": true,
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "md"
+        }
+      ],
+      "icon": "lucide-notepad-text"
+    },
+    {
+      "id": "Q9RjZ",
+      "name": "pdf",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "pdf"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-text"
+    },
+    {
+      "id": "6aARp",
+      "name": "xls",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "xls"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-table"
+    },
+    {
+      "id": "mcy1p",
+      "name": "doc",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "doc"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-letter-text"
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "xZTX8",
+      "name": "inbox",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "is",
+          "value": "00 inbox"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-inbox"
+    },
+    {
+      "id": "jTlG7",
+      "name": "projects",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "is",
+          "value": "01 projects"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-sprout"
+    },
+    {
+      "id": "rD1C9",
+      "name": "areas",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "is",
+          "value": "02 areas"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-square-stack"
+    },
+    {
+      "id": "U805y",
+      "name": "resources",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "resources"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-tree-deciduous"
+    },
+    {
+      "id": "dzoEc",
+      "name": "gallery",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "gallery"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-layout-grid"
+    },
+    {
+      "id": "wp8vy",
+      "name": "archived",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "05 archived"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-archive"
+    },
+    {
+      "id": "6DGV4",
+      "name": "daily",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "06 daily"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-calendar-range"
+    },
+    {
+      "id": "jWuXJ",
+      "name": "private",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "private"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book-lock",
+      "color": "#c33c3c"
+    },
+    {
+      "id": "XkRK0",
+      "name": "content",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "is",
+          "value": "content"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-panel-bottom-open",
+      "color": "#cdbe13"
+    },
+    {
+      "id": "6Bvyh",
+      "name": "attachments",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "attachments"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-paperclip"
+    },
+    {
+      "id": "EhWuS",
+      "name": "global",
+      "match": "none",
+      "enabled": true,
+      "icon": "lucide-panel-bottom",
+      "conditions": [
+        {
+          "source": "icon",
+          "operator": "hasValue"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "fileNameContainsDate": true,
+  "formatterID": "mdtable",
+  "outputFolder": "console logs",
+  "logLevel": "info"
+}

@@ -1,0 +1,26 @@
+{
+  "consistencyReportFile": "consistency-report.md",
+  "emptyAttachmentFolderBehavior": "DeleteWithEmptyParents",
+  "excludePaths": [
+    "/consistency\\-report\\.md$/",
+    ".git/",
+    ".obsidian/",
+    "docs/",
+    "node_modules/",
+    "public/",
+    "quartz/",
+    "templates/"
+  ],
+  "excludePathsFromAttachmentCollecting": [],
+  "includePaths": [],
+  "shouldChangeNoteBacklinksDisplayText": false,
+  "shouldCollectAttachmentsAutomatically": true,
+  "shouldDeleteAttachmentsWithNote": false,
+  "shouldDeleteExistingFilesWhenMovingNote": false,
+  "shouldMoveAttachmentsWithNote": false,
+  "shouldShowBackupWarning": false,
+  "shouldUpdateLinks": true,
+  "treatAsAttachmentExtensions": [
+    ".excalidraw.md"
+  ]
+}

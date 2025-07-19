@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "content/attachments",
+  "promptDelete": false,
+  "readableLineLength": false,
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content"
+}
