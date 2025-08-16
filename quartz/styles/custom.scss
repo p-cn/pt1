@@ -12,11 +12,12 @@ li, ol, p, ul {
 p {
   line-height: 1.7;
   padding-bottom: 5px;
+  font-size: 1.2em;
 }
 
 p.meta,
 div p time, div p span {
-  font-size: 0.6em;
+  font-size: 1em;
   text-transform: lowercase;
 }
 
@@ -58,11 +59,11 @@ h4 {
 }
 
 h5 {
-  font-size: 1.1em;
+  font-size: 1.2em;
 }
 
 h6 {
-  font-size: 1em;
+  font-size: 1.1em;
 }
 
 h1.article-title {
