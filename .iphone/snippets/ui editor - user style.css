@@ -3,7 +3,7 @@ body, p {
 }
 
 .HyperMD-header, .inline-title, h1, h2, h3, h4, h5, h6 {
- font-family: AirBnB Cereal App!important;
+ font-family: inherit!important;
 
 }
 

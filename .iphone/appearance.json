@@ -1,23 +1,14 @@
 {
-  "accentColor": "",
   "cssTheme": "Border",
   "theme": "moonstone",
-  "textFontFamily": "Airbnb Cereal App,Fuzzy Bubbles,SF Pro Display,Delivery Viet,Granite,STIX Two Text,Playwrite GB S,Exchange Book,Petrona",
+  "baseFontSize": 17,
   "enabledCssSnippets": [
-    "custom-rainbow-colors",
-    "extended-colorschemes",
-    "minimal-cards",
-    "bullet threading",
     "ui - bullet threading",
     "ui - custom-rainbow-colors",
+    "ui - dataview",
     "ui - extended-colorschemes",
     "ui - hierachic numbering",
     "ui - minimal-cards",
-    "ui editor - user style",
-    "header - warm dark",
-    "ui - dataview",
-    "ui - callout multi column"
-  ],
-  "baseFontSize": 16,
-  "interfaceFontFamily": "Airbnb Cereal App"
+    "ui editor - user style"
+  ]
 }

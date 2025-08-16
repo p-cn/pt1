@@ -23,16 +23,16 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Sen",
-        body: "STIX Two Text",
+        header: "Fuzzy Bubbles",
+        body: "Golos Text",
         code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#FFF7F1",//background
+          light: "#FDFAF8",//background
           lightgray: "#E6E6E6",//searchbox, border
           gray: "#b8b8b8",//metadata
-          darkgray: "#8E3528",//body text
+          darkgray: "#5B2017",//body text
           dark: "#5A1E1E",//heading title
           secondary: "#822124",//links, folder nav, page home a
           tertiary: "#423E64",// link hover
