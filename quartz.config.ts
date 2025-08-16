@@ -33,7 +33,7 @@ const config: QuartzConfig = {
           lightgray: "#E6E6E6",//searchbox, border
           gray: "#b8b8b8",//metadata
           darkgray: "#5B2017",//body text
-          dark: "#5A1E1E",//heading title
+          dark: "#A43637",//heading title
           secondary: "#822124",//links, folder nav, page home a
           tertiary: "#423E64",// link hover
           highlight: "#F4DFC9",
