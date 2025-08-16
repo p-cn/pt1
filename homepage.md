@@ -2,7 +2,11 @@
 cssclasses:
   - four-column-list
 ---
-
+### published
+```dataviewjs
+const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.draft === false) ); const grouped = pages.groupBy(p => p.file.folder); for (let group of grouped) { dv.header(6, group.key); dv.list(group.rows.map(p => p.file.link)); 
+}
+```
 ### unpublished
 ```dataviewjs
 const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.draft === true || p.draft === undefined || p.draft === null) ); const grouped = pages.groupBy(p => p.file.folder); for (let group of grouped) { dv.header(6, group.key); dv.list(group.rows.map(p => p.file.link)); 
@@ -19,30 +23,30 @@ const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.dra
 6. You never know when you will need the support and backing of others. Give it others, esp those early in their career.
 7. Don't overthink or over analyse. Do the thing if it interests you. Do it because you want to!
 8. Be brave. Even if you’re not, pretend to be. No one can tell the difference.
-9. Lend only those books you never care to see again.  
-10. When playing games with children, let them win.  
+9. Lend only those books you never care to see again.
+10. When playing games with children, let them win.
 11. Give people a second chance, but not a third.
-12. Become the most positive and enthusiastic person you know.  
-13. Loosen up. Relax. Except for rare life-and-death matters, nothing is as important as it first seems.  
-14. Don’t allow the phone to interrupt important moments. It’s there for our convenience, not the caller’s. 
-15. Think twice before burdening a friend with a secret.  
-16. When someone hugs you, let them be the first to let go.  
-17. Keep it simple.  
-18. Beware of the person who has nothing to lose.  
+12. Become the most positive and enthusiastic person you know.
+13. Loosen up. Relax. Except for rare life-and-death matters, nothing is as important as it first seems.
+14. Don’t allow the phone to interrupt important moments. It’s there for our convenience, not the caller’s.
+15. Think twice before burdening a friend with a secret.
+16. When someone hugs you, let them be the first to let go.
+17. Keep it simple.
+18. Beware of the person who has nothing to lose.
 19. Don’t burn bridges. You’ll be surprised how many times you have to cross the same river. Except the bridges that lead you to hell.
-20. Take charge of your attitude. Don’t let someone else choose it for you.  
-21. Visit friends and relatives when they are in the hospital; you only need to stay a few minutes.  
-22. Begin each day with some of your favourite music.  
-23. Once in a while, take the scenic route.  
-24. Answer the phone with enthusiasm and energy in your voice.  
-25. Keep a notepad and pencil on your bedside table. Million-dollar ideas sometimes strike at 3 a.m.  
-26. Show respect for everyone who works for a living, regardless of how trivial their job. 
-27. Make someone’s day by paying the toll for the person in the car behind you.  
-28. Become someone’s hero.  
-29. Count your blessings.  
-30. Compliment the meal when you’re a guest in someone’s home.  
-31. Wave at the children on a school bus.  
-32. Remember that 80% of the success in any job is based on your ability to deal with people.  
+20. Take charge of your attitude. Don’t let someone else choose it for you.
+21. Visit friends and relatives when they are in the hospital; you only need to stay a few minutes.
+22. Begin each day with some of your favourite music.
+23. Once in a while, take the scenic route.
+24. Answer the phone with enthusiasm and energy in your voice.
+25. Keep a notepad and pencil on your bedside table. Million-dollar ideas sometimes strike at 3 a.m.
+26. Show respect for everyone who works for a living, regardless of how trivial their job.
+27. Make someone’s day by paying the toll for the person in the car behind you.
+28. Become someone’s hero.
+29. Count your blessings.
+30. Compliment the meal when you’re a guest in someone’s home.
+31. Wave at the children on a school bus.
+32. Remember that 80% of the success in any job is based on your ability to deal with people.
 33. Don’t expect life to be fair.
 34. Being honest may not get you a lot of friends, but it will always get you the right ones.
 35. Don’t worry about what others think of you. Most of them aren’t even thinking about you.
@@ -164,7 +168,7 @@ const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.dra
 150. Ask yourself this: "Do you really want to be loved like this for the rest of your life?"
 151. có 2 thứ sẽ cứu sống theo nghĩa đen: ăn uống và luyện tập
 152. 2 thứ không nên giữ trong lòng, lời khen và tiếng cười
-153. 2 thứ nên dùng hành động: một là họ quan trọng với bạn và những người không muốn dính dáng 
+153. 2 thứ nên dùng hành động: một là họ quan trọng với bạn và những người không muốn dính dáng
 154. 2 thứ không nên vội vã: đánh giá tiêu cực, hoặc khi đang làm giữa chừng một điều gì đó
 155. Give love, but don't exhaust yourself Be peaceful, but don't become passive Have patience, but don't develop arrogance Be open to love, but don't force a connection
 > *A collection of unsolicited advice. Some I learned the hard way. Some I found and agreed with.*
@@ -255,5 +259,3 @@ const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.dra
 235. Don't promise and agree when you're having a good time.
 
 I don't seek revenge on you but I do hope you experience yourself in another person.
-
-
