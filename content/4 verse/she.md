@@ -1,9 +1,9 @@
 ---
-title: 
+title:
 draft: false
-tags: 
-permalink: 
-date:
+tags:
+permalink:
+date: 2012-07-11
 ---
 she said pretty words of love<br>that he didn't believe
 
