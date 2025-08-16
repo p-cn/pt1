@@ -1,19 +1,19 @@
 ---
-title: 
+title:
 draft: false
-tags: 
-permalink: 
+tags:
+permalink:
 date: 2012-10-17
 ---
 windows light, moving slides<br>the world in motion <br>captured by my eyes<br>
 
 billions of frames<br>moving and forgotten<br>in split seconds<br>why do I need them<br>
 
-faces I want to remember, faded away<br>voices I want to hear whispering, lost in static of time<br>old frames of motion<br>same place that night<br>none of your smoke<br>none of your breath<br>none of your voice<br>none of the look you gave<br>memories, sand in desert<br>time woke the storms<br>tore and broke them apart<br>without mercy<br>
+faces I want to remember, faded away<br>voices I want to hear whispering, lost in static of time<br>old frames of motion<br>same place that night<br>none of your smoke,<br>none of your breath,<br>none of your voice,<br>none of the look you gave<br>memories, sand in desert<br>time woke the storms<br>tore and broke them apart<br>without mercy<br>
 
 your face, I am forgetting<br>your voice, unclear in my head<br>dreams, burned to your ground<br>hopes, lost to your time<br>
 
-our love, did it die<br>only my heart stays<br>shattered and lonely<br>each passing day<br>time’s only a creation<br>but indestructible<br>in the end, all are molecules and changing<br>
+our love, did it die<br>only my heart stays<br>shattered and lonely,<br>each passing day<br>time’s only a creation<br>but indestructible<br>in the end, all are molecules and changing<br>
 
 why won’t it go back<br>in my dreams,<br>you used to come back<br>
 
