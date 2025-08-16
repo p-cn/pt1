@@ -1,21 +1,12 @@
 ---
 title: 
-draft: true
+draft: false
 tags: 
 permalink: 
-date:
+date: 2018-02-07
 ---
-take out my heart
-make me stone
-cut my feelings
-straight from the bones
-make me walk
-talk me to dull
-move my fingers
-into the cold
-dress me a suit
-tie me down
-place my hands on hard tables
-let type my pain down
-until my hair grays up
-and hands can no longer reach out
+take out my heart<br>make me stone<br>cut my feelings<br>straight from the bones<br>
+make me walk<br>talk me to dull<br>dunk my hands<br>into the cold<br>
+dress me in a suit<br>tie me down<br>throw me off a cliff<br>choke me as I drown<br>
+let my thoughts bleed out<br>let me scream inaudible fears<br>
+my senses paralyzed<br>begging for your mercy

@@ -1,8 +1,8 @@
 ---
-title: 
+title:
 draft: true
-tags: 
-permalink: 
+tags:
+permalink:
 date:
 ---
 There was an arrow; a thick arrow like ones in direction boards. It was pointing to the left but that wasn’t making any sense. I couldn’t turn my head to there because something was blocking my right side. I felt aching in my head. My eyes couldn’t look to anywhere else except that dark arrow behind those smokes. But there wasn’t only an arrow, but also small squares and rectangles; there I recognized them making sense.

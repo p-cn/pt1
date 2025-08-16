@@ -1,8 +1,8 @@
 ---
-title: 
+title:
 draft: true
-tags: 
-permalink: 
+tags:
+permalink:
 date:
 ---
 I did not get to bury you with my hands
