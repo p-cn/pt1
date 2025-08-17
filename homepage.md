@@ -173,7 +173,7 @@ const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.dra
 > *A collection of unsolicited advice. Some I learned the hard way. Some I found and agreed with.*
 
 *still updating*
-### on people
+#### on people
 157. Some will expect you to be quiet to keep their peace.
 158. People who obsess over you initially are in love with an idea, not you. They don't know the real you.
 159. Those that want to live, are made to suffer; and those that want to die, are forced to go on living.
@@ -194,7 +194,7 @@ const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.dra
 174. Perseverance does not equal worthiness.
 175. Don’t let the disrespect of those you lowered your standards for get under your skin.
 176. Sometimes people need to be understood more than to be loved.
-### on yourself
+#### on yourself
 177. Your wounds might be the result of your kindness.
 178. Self pity and excuses are lazy.
 179. Your lowest points are yours alone. Others can't see them, especially if they want something from you.
@@ -209,7 +209,7 @@ const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.dra
 188. Your healing cannot depend on someone that doesn't understand their wrongdoing. If staying means undervaluing yourself, you should move on.
 189. Don’t burn yourself out trying to light the way for others.
 190. Opinions of others are for understanding different perspectives; they don't have to influence yours.
-### on things around you
+#### on things around you
 191. Life can be challenging despite our best efforts. It's not your fault for trying and sometimes falling short.
 192. Sex is a physical act. Love is a collection of ideals. Marriage is a social contract.
 193. It feels the most difficult only when you start.
@@ -231,7 +231,7 @@ const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.dra
 209. Find smart people who will disagree with you.
 210. Anyone can be replaced. To replace a bad person, it would have already cost many good ones.
 211. Fixation on vanity is unattractive.
-### what you should do
+#### what you should do
 212. Be good, be excellent, be bold, but don't waste your time proving it.
 213. No matter how destructive your rage feels, you're just one person out of many.
 214. Learn how to do nothing and be bored.
