@@ -1,27 +1,8 @@
 ---
-title: 
-draft: true
-tags: 
-permalink: 
-date:
+title:
+draft: false
+tags:
+permalink:
+date: 2013-02-20
 ---
-was it love
-that kept you so optimistic
-was it love
-that breaks me shattered and blunt
-was it love
-that gave your hope
-was it love
-that erased my dream
-was it love
-that driven you insane
-was it love
-that keeps me on my feet
-was it love
-that pulled you away from home
-was it love
-that brought me closer to you
-was it love
-that you’ve lost in this life
-was it love
-that tore you away from me
+was it love<br>that kept you so optimistic<br>was it love<br>that breaks me shattered and blunt<br>was it love<br>that gave your hope<br>was it love<br>that erased my dream<br>was it love<br>that driven you insane<br>was it love<br>that keeps me on my feet<br>was it love<br>that pulled you away from home<br>was it love<br>that brought me closer to you<br>was it love<br>that you’ve lost in this life<br>was it love<br>that took you away from me

@@ -11,6 +11,11 @@ I see this site as a basket of improperly baked thoughts to perform its sole dut
 
 You should ignore the lack of capitalization in some places.
 
+---
 
+##### 2025-08-18
+He told me that one day I would be able to see the world in a better way and I would be at peace. I didn't expect that there could be peace but the world didn't get any better.
+I raged on indestructible things and it did me no good.
+Am I one person out of many even when I matter the most?
 ##### 2025-08-16
 Now that I see people though the lens of a inquirer, as in, "What can I learn about this person's motives?", I found interaction not as troublesome nor heavy. It doesn't mean that I like people any better, I just hate myself for others' flaws less.

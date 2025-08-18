@@ -233,28 +233,27 @@ const pages = dv.pages("").where(p => p.file.path.includes("content/") && (p.dra
 211. Fixation on vanity is unattractive.
 #### what you should do
 212. Be good, be excellent, be bold, but don't waste your time proving it.
-213. No matter how destructive your rage feels, you're just one person out of many.
-214. Learn how to do nothing and be bored.
-215. Avoid sarcastic remarks, not because people aren't funny enough to understand.
-216. Choose your most frequent encounters wisely, such as your shoes, your bed, your best friends, and your job.
-217. Emotional wounds hurt most when inflicted by those we trust. The only right course is to learn how to regain your sense of control.
-218. No explanation is needed for people you don't need in your life.
-219. If you need to beat yourself up, do it once and move on.
-220. Only hang out with people that energize you.
-221. Master fake sincerity. Everything else falls into place.
-222. Apologize immediately, genuinely, explicitly.
-223. Be grateful to those who helped you to be the person you are today.
-224. Sometimes you need to do things you don't enjoy to get close to what you do.
-225. Don't romanticize memories. Remember the disrespect that came with them.
-226. Manage your energy for the worthwhile.
-227. Do the most important task first.
-228. Win or lose, be a good one anyway.
-229. Keep your true light hidden from acquaintances, even relatives and friends.
-230. In a fight, hit first and hit hard.
-231. Accept an outstretched hand and turn your back on a withdrawn one.
-232. Sincerity and honesty are expensive. Reserve them for those who deserve them.
-233. Don't try to change people, change how you deal with them instead.
-234. Learn to react less.
-235. Don't promise and agree when you're having a good time.
+213. Learn how to do nothing and be bored.
+214. Avoid sarcastic remarks, not because people aren't funny enough to understand.
+215. Choose your most frequent encounters wisely, such as your shoes, your bed, your best friends, and your job.
+216. Emotional wounds hurt most when inflicted by those we trust. The only right course is to learn how to regain your sense of control.
+217. No explanation is needed for people you don't need in your life.
+218. If you need to beat yourself up, do it once and move on.
+219. Only hang out with people that energize you.
+220. Master fake sincerity. Everything else falls into place.
+221. Apologize immediately, genuinely, explicitly.
+222. Be grateful to those who helped you to be the person you are today.
+223. Sometimes you need to do things you don't enjoy to get close to what you do.
+224. Don't romanticize memories. Remember the disrespect that came with them.
+225. Manage your energy for the worthwhile.
+226. Do the most important task first.
+227. Win or lose, be a good one anyway.
+228. Keep your true light hidden from acquaintances, even relatives and friends.
+229. In a fight, hit first and hit hard.
+230. Accept an outstretched hand and turn your back on a withdrawn one.
+231. Sincerity and honesty are expensive. Reserve them for those who deserve them.
+232. Don't try to change people, change how you deal with them instead.
+233. Learn to react less.
+234. Don't promise and agree when you're having a good time.
 
 I don't seek revenge on you but I do hope you experience yourself in another person.
