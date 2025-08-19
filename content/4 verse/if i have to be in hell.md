@@ -1,27 +1,14 @@
 ---
 title: 
-draft: true
+draft: false
 tags: 
 permalink: 
-date:
+date: 2013-03-05
 ---
-If I have to be in Hell
-chain me where I can look at my past
-If I have to be expelled
-let me not forget the time I spent on Earth
-If I have to be apart
-leave the memories in place and time
-If I have to atone for my ignorance
-tie my hands and feet by the ocean at sunset
-and let the tidal swallow my breath
-If I have to be in Hell
-let me not see the ones I love beside me
-let me atone for their sins and ignorance
-no matter how long for my soul to rot
-If we have to be separated
-please protect the monuments of our dreams
-so from Hell, I could look at
-If you have to watch me in Hell
-do not forget I kept the promises ’til the end
-and every torment I spent
-means lessening the time to see you again
+if I have to be in Hell<br>don't chain me where I can look at my past<br>if I have to be expelled<br>let me forget the time I spent on Earth<br>if I have to be apart<br>leave the memories in place and time<br>if I have to make it for my ignorance<br>drown me in the ocean at sunset<br>and let the tides swallow my breath<br>
+
+if I have to be in Hell<br>don't make me see the ones I love beside me<br>let me atone for their sins and ignorance<br>no matter how long<br>
+
+if we have to be separated<br>please protect the monuments of our dreams<br>so from there, I could look at them<br>even if I won't remember who we used to be <br>
+
+if you have to watch me rot<br>don't forget I kept the promises 'til the end<br>and every torment I'll endure<br>is to see you again<br>
