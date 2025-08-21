@@ -1,20 +1,20 @@
 ---
-title: 
-draft: true
-tags: 
-permalink: 
-date:
+title:
+draft: false
+tags:
+permalink:
+date: 2015-09-11
 ---
-The dream never changes or at least, shifted in motion.
+The dream never changed, only shifted in motion.
 
-I keep coming back to our sanctuary where our summer porch lies neatly by the window. The hot tea of emotion you kicked off the other day still filled out, smoking into the air. The lame shadow cuts off life; dark days never came.
+I keep returning to our sanctuary—the sunlit corner of the library, where red camellias outside bent and broke under the storm. The tea you once spilled still lingers, steam curling into the air. A shadow cut across, but dark days never left.
 
-I don’t want to go back here and look for your love. But to feel loneliness in these cold rooms makes it feel too good to relive this sensation. I drank poison called life, became victim of losing you. Time had pushed me off the cliff too many times. They were fine until you aren’t here to catch me anymore.
+I don’t come here to search for your love. Having had you inside this place feels too sweet, yet too sharp that it pierced through my sanity, to let go. I didn't know hope was poison as I became the victim of losing you. Time has pushed me off too many times. It was bearable—until you weren’t there to catch me anymore.
 
-I have this wrong illusion as I touched the way in, we would be standing by the window again, kissing with madness, leaving the world under turbulence outside like villains.
+I touch the way back and fall into the same illusion: we were by the fireplace again, being with madness, shutting the world out like villains in a storm.
 
-Addiction is heartless. I never lose the cold slash when I walk down the path in my dream to come back to you. I come back to where you are still, times and places, touch and kisses, like a dark flashback.
+The cold slash of merciless addiction never left me as I walk on this path back to you. I come back again and again—across times, places, touches, hugs—like an obsessive flashback on repeat.
 
-Falling again and again just to find our love so glorious. This victim of me calls lie wrecking itself like a winner of love. I crashed on the way, tumbled on the thorny roads to get back where places are home and you are not a reflection in the mirror each time I look.
+Falling endlessly, only to long for the love that wrecked me. This broken self wears the mask of victory, crashing along a road filled with sharp gravels just to reach the place where home once was—where you are no longer only a reflection in the mirror.
 
-You sitting there on our porch, smoking like the old times; I wouldn’t wait to walk to you. I roll myself onto your lap like a cat; emotion crashes and nothing matters anymore.
+And there you are: stood waiting for me on the front steps, smoking impatiently. I don’t hesitate. I fall into your embrace like a stray cat, lost emotions colliding, and nothing else matters.
