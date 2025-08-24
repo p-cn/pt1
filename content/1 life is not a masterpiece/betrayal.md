@@ -1,9 +1,9 @@
 ---
-title: 
+title:
 draft: false
-tags: 
-permalink: 
-date:
+tags:
+permalink:
+date: 2025-08-08
 ---
 I once helped this person to get jobs with good salary, then they told others that they are underpaid.
 I once hosted many occasions in my good big home, only to get later comers and whiners.
