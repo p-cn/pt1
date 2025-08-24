@@ -3,7 +3,7 @@ title:
 draft: false
 tags:
 permalink:
-date:
+date: 2017-01-31
 ---
 millions shades of blue<br>only one that lives in my memories<br>only one that spoke to me<br>only one could evoke those tears<br>
 
