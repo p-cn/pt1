@@ -65,8 +65,7 @@
               "title": "piqued"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Dateiexplorer"
         }
       },
       {
@@ -197,28 +196,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "zk-prefixer:Create new unique note": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "zk-prefixer:Neue eindeutige Notiz erstellen": false,
+      "bases:Neue Base erstellen": false,
+      "iconic:Regelbuch öffnen": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "cmdr:File Explorer++: Toggle all hide filters": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "iconic:Open rulebook": false,
       "homepage:Open homepage": false,
       "file-cleaner-redux:Clean files": false,
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "184139208d32ad6d",
+  "active": "e972884838f027cc",
   "lastOpenFiles": [
-    "homepage.md",
     "content/3 verses/piqued.md",
     "content/3 verses/KV 271 Andantino.md",
     "content/index.md",
+    "homepage.md",
     "content/2 dreams/locked in comfort.md",
     "content/2 dreams/glory of your love.md",
     "content/2 dreams/fear never went away.md",
