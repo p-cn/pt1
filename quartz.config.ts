@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Fuzzy Bubbles",
-        body: "Radley",
+        header: "Bitcount Prop Double",
+        body: "Bitcount Prop Single",
         code: "JetBrains Mono",
       },
       colors: {

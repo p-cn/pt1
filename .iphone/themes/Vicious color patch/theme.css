@@ -1045,7 +1045,9 @@ select:focus,
 	border: none;
 }
 .is-mobile .workspace-leaf-content:is([data-type="file-explorer"]) {
-	background-color: var(--800);
+	/* patched: was var(--800), a hardcoded dark value that blacked out the
+	   mobile file explorer in light mode. --card-color tracks the scheme. */
+	background-color: var(--card-color);
 }
 
 .workspace-split .workspace-leaf-content[data-type="bookmarks"],
@@ -1284,7 +1286,7 @@ input[type="password"]:focus-visible,
 input[type="number"]:focus-visible {
 	box-shadow: none;
 }
-h1,
+/* h1,
 .markdown-rendered h1,
 .cm-header-1 {
 	color: var(--C001);

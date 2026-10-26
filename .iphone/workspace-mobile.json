@@ -65,7 +65,8 @@
               "title": "piqued"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,12 +213,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e972884838f027cc",
+  "active": "184139208d32ad6d",
   "lastOpenFiles": [
-    "content/3 verses/piqued.md",
+    "homepage.md",
     "content/3 verses/KV 271 Andantino.md",
     "content/index.md",
-    "homepage.md",
+    "content/3 verses/piqued.md",
     "content/2 dreams/locked in comfort.md",
     "content/2 dreams/glory of your love.md",
     "content/2 dreams/fear never went away.md",
